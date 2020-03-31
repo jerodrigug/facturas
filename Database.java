@@ -7,7 +7,7 @@ package softwarefactura;
 
 /**
  *
- * @author Alejandro Arroyave
+ * https://github.com/jerodrigug/facturas.git
  */
 public class Database {
     

@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  *
- * @author Alejandro Arroyave
+ * @author Jhon Edinson Rodríguez Gutierrez
  */
 public class Factura {
     private int NroFactura;

@@ -7,7 +7,7 @@ package softwarefactura;
 
 /**
  *
- * https://github.com/jerodrigug/facturas.git
+ * @author Jhon Edinson Rodríguez Gutierrez
  */
 public class Database {
     

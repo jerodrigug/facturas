@@ -2,7 +2,7 @@ package softwarefactura;
 
 /**
  * Class Item
- * @author Alejandro Arroyave
+ * @author Jhon Edinson Rodríguez Gutierrez
  */
 public class Item {
     private final int Id;

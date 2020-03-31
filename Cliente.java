@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author Alejandro Arroyave
+ * @author Jhon Edinson Rodríguez Gutierrez
  */
 public class Cliente {
 

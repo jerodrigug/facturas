@@ -7,7 +7,7 @@ package softwarefactura;
 
 /**
  *
- * @author Alejandro Arroyave
+ * @author Jhon Edinson Rodríguez Gutierrez
  */
 public class DatabaseDAOImpl {
     

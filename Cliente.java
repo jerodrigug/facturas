@@ -18,10 +18,10 @@ public class Cliente {
     private String Apellidos;
     private char Genero;
     private String Estado_Civil;
-    private LocalDate Fecha_Nacimiento;
+    private String Fecha_Nacimiento;
 
     public Cliente(int id, String nombre, String apellidos, char genero,
-            String estado_Civil, LocalDate fecha_Nacimiento) {
+            String estado_Civil, String fecha_Nacimiento) {
         Id = id;
         Nombre = nombre;
         Apellidos = apellidos;
@@ -66,11 +66,11 @@ public class Cliente {
         Estado_Civil=estado_Civil;
     }
     
-    public LocalDate getFecha_Nacimiento(){
+    public String getFecha_Nacimiento(){
         return Fecha_Nacimiento;
     }
 
-    public void setFecha_Nacimiento(LocalDate fecha_Nacimiento){
+    public void setFecha_Nacimiento(String fecha_Nacimiento){
         Fecha_Nacimiento=fecha_Nacimiento;
     }
 }
